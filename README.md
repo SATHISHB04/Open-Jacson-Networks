@@ -1,5 +1,7 @@
 # Series Queues with infinite capacity - Open Jackson Network
 
+# exp:06
+
 # Date : 14.12.2024
 
 # Name:SATHISH.B
